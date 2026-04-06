@@ -2,123 +2,168 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Mon Portfolio PHP</title>
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sara | Digital Dev Portfolio</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            background-color: #fff0f5;
+        :root {
+            --bg-color: #050505; /* K7al ghameq fhal l-image */
+            --accent-blue: #4facfe; /* Loun l-azraq professional */
+            --text-main: #ffffff;
+            --text-muted: #888888;
+            --card-bg: #0f0f0f;
         }
 
-        header {
-            background-color: #ff4da6;
-            color: white;
-            text-align: center;
-            padding: 30px;
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background-color: var(--bg-color); 
+            color: var(--text-main);
+            line-height: 1.6;
         }
 
-        .atelier {
-            padding: 40px;
-            text-align: center;
-        }
-
-        h2 {
-            color: #ff4da6;
-        }
-
-        .cards {
+        /* --- NAVIGATION --- */
+        nav {
             display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            padding: 40px 10%;
+        }
+        .logo { font-weight: 800; font-size: 20px; letter-spacing: -1px; }
+        .nav-links a { color: var(--text-muted); text-decoration: none; margin-left: 30px; font-size: 14px; transition: 0.3s; }
+        .nav-links a:hover { color: var(--text-main); }
+        .btn-contact { border: 1px solid var(--accent-blue); padding: 8px 20px; border-radius: 5px; color: var(--accent-blue) !important; }
+
+        /* --- HERO SECTION --- */
+        .hero {
+            display: flex;
+            padding: 40px 10%;
+            align-items: center;
+            justify-content: space-between;
+            min-height: 80vh;
+        }
+        .hero-text { flex: 1.5; }
+        .hero-text .subtitle { 
+            font-size: 10px; /* Sghira o hdeqa kif tlebty */
+            letter-spacing: 2px; 
+            color: var(--text-muted); 
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            display: block;
+        }
+        .hero-text h1 { font-size: 3.5rem; font-weight: 800; line-height: 1.1; margin-bottom: 30px; }
+        .hero-text h1 span { color: var(--accent-blue); }
+        .hero-text p { color: var(--text-muted); max-width: 500px; margin-bottom: 40px; font-size: 1.1rem; }
+
+        .hero-image { flex: 1; display: flex; justify-content: flex-end; }
+        .hero-image img { 
+            width: 100%; max-width: 400px; 
+            border-radius: 12px; 
+            filter: grayscale(100%); /* Effect professional B&W */
+            border: 1px solid rgba(255,255,255,0.1);
         }
 
+        /* --- PROJECTS & REPORTS SECTION --- */
+        .work-section { padding: 80px 10%; }
+        .section-title { font-size: 1.5rem; margin-bottom: 40px; border-bottom: 1px solid #222; padding-bottom: 10px; }
+        
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+        
         .card {
-            background-color: white;
-            padding: 20px;
-            width: 250px;
-            border-radius: 15px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-            transition: 0.3s;
-        }
-
-        .card:hover {
-            transform: scale(1.05);
-        }
-
-        .card h3 {
-            color: #ff4da6;
-        }
-
-        .card a {
-            display: inline-block;
-            margin-top: 10px;
-            padding: 8px 15px;
-            background-color: #ff4da6;
-            color: white;
+            background: var(--card-bg);
+            padding: 30px;
+            border-radius: 10px;
             text-decoration: none;
-            border-radius: 8px;
-        }
-
-        footer {
-            text-align: center;
-            padding: 15px;
-            background-color: #ff4da6;
             color: white;
-            margin-top: 40px;
+            transition: 0.3s;
+            border: 1px solid #1a1a1a;
+            display: block;
+        }
+        .card:hover { border-color: var(--accent-blue); transform: translateY(-5px); }
+        .card h3 { margin-bottom: 10px; font-size: 1.2rem; }
+        .card p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 20px; }
+        .card .tag { font-size: 10px; font-weight: 700; color: var(--accent-blue); text-transform: uppercase; }
+
+        @media (max-width: 900px) {
+            .hero { flex-direction: column; text-align: center; }
+            .hero-text h1 { font-size: 2.5rem; }
+            .hero-image { margin-top: 50px; }
         }
     </style>
-
 </head>
 <body>
 
-    <header>
-        <h1>Mon Portfolio</h1>
-        <p>Stagiaire 1ère année Développement Digital</p>
+    <nav>
+        <div class="logo">SARA.</div>
+        <div class="nav-links">
+            <a href="#">Home</a>
+            <a href="#work">Projects</a>
+            <a href="#" class="btn-contact">Contact Me</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="hero-text">
+            <span class="subtitle">DÉVELOPPEMENT DIGITAL | 1ÈRE ANNÉE | ISTA</span>
+            <h1>Bridging <span>Expertise</span> and Digital Intelligence.</h1>
+            <p>Étudiante en première année, je me spécialise dans le développement web et la gestion de données.</p>
+            <a href="#work" style="background:var(--accent-blue); color:white; padding:15px 35px; border-radius:5px; text-decoration:none; font-weight:600;">Voir mes travaux</a>
+        </div>
+
+        <div class="hero-image">
+            <img src="c:\Users\Admin\Pictures\Saved Pictures\photos1.jpeg" alt="Sara Portrait">
+        </div>
     </header>
 
-    <section class="atelier">
-        <h2>Mes Ateliers PHP</h2>
+    <section id="work" class="work-section">
+        <h2 class="section-title">Mes Travaux</h2>
+        <div class="grid">
+            
+            <a href="exercice1.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>Atelier 01: Syntaxe</h3>
+                <p>Manipulation des variables et structures de base en PHP.</p>
+                <span>Consulter le code →</span>
+            </a>
 
-        <div class="cards">
+            <a href="exercice2.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>Atelier 02: Logique</h3>
+                <p>Mise en place des conditions et des boucles dynamiques.</p>
+                <span>Consulter le code →</span>
+            </a>
 
-            <div class="card">
-                <h3>Exercice 1</h3>
-                <p>Manipulation des variables en PHP</p>
-                <a href="exercice1.php">Voir</a>
-            </div>
+            <a href="rapport 11.pdf" target="_blank" class="card">
+                <span class="tag">Documentation</span>
+                <h3>Rapport de Stage 01</h3>
+                <p>Analyse technique et environnement de développement.</p>
+                <span>Ouvrir le PDF ↓</span>
+            </a>
 
-            <div class="card">
-                <h3>Exercice 2</h3>
-                <p>Les conditions (if, else)</p>
-                <a href="exercice2.php">Voir</a>
-            </div>
-
-            <div class="card">
-                <h3>Exercice 3</h3>
-                <p>Les boucles (for, while)</p>
-                <a href="Rapport  2.pdf">Voir</a>
-            </div>
-            <div class="card">
-                <h3>Exercice 2</h3>
-                <p>Les conditions (if, else)</p>
-                <a href="Rapport  2.pdf">Voir</a>
-            </div>
+            <a href="Rapport 2.pdf" target="_blank" class="card">
+                <span class="tag">Documentation</span>
+                <h3>Rapport de Stage 02</h3>
+                <p>Bilan des compétences et réalisations techniques.</p>
+                <span>Ouvrir le PDF ↓</span>
+            </a>
 
         </div>
     </section>
 
-    <footer>
-        <p>© 2026 - Sara Portfolio</p>
+    <footer style="text-align: center; padding: 50px; color: #444; font-size: 12px;">
+        © 2026 SARA PORTFOLIO - ISTA DIGITAL DEV
     </footer>
-    <?php
+<?php
 
 echo"<a href='exercice1.php'>Exercice1</a>";
 echo"<a href='exercice2.php'>Exercice2</a>";
-echo"<a href='Rapport  2.pdf'>Rapport1</a>";
-echo"<a href='Rapport  2.pdf'>Rapport2</a>";
+echo"<a href='rapport 11.pdf'>Rapport1</a>";
+echo"<a href='Rapport 2.pdf'>Rapport2</a>";
 ?>
 
 </body>
 </html>
+
+
+   

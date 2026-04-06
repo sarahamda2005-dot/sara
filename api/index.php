@@ -100,6 +100,11 @@
                 <p>Les boucles (for, while)</p>
                 <a href="Rapport  2.pdf">Voir</a>
             </div>
+            <div class="card">
+                <h3>Exercice 2</h3>
+                <p>Les conditions (if, else)</p>
+                <a href="Rapport  2.pdf">Voir</a>
+            </div>
 
         </div>
     </section>

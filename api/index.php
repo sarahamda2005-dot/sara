@@ -112,7 +112,7 @@
         </div>
 
         <div class="hero-image">
-            <img src="photos1.jpeg" alt="Sara Portrait">
+            <img src="sara.jpeg" alt="Sara Portrait">
         </div>
     </header>
 

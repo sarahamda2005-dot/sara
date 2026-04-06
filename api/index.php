@@ -112,7 +112,7 @@
         </div>
 
         <div class="hero-image">
-            <img src="api/photos1.jpeg" alt="Sara Portrait">
+            <img src="photos1.jpeg" alt="Sara Portrait">
         </div>
     </header>
 
@@ -141,7 +141,7 @@
                 <span>Ouvrir le PDF ↓</span>
             </a>
 
-            <a href="Rapport 2.pdf" target="_blank" class="card">
+            <a href="Rapport  2.pdf" target="_blank" class="card">
                 <span class="tag">Documentation</span>
                 <h3>Rapport de Stage 02</h3>
                 <p>Bilan des compétences et réalisations techniques.</p>
@@ -159,7 +159,7 @@
 echo"<a href='exercice1.php'>Exercice1</a>";
 echo"<a href='exercice2.php'>Exercice2</a>";
 echo"<a href='rapport 11.pdf'>Rapport1</a>";
-echo"<a href='Rapport 2.pdf'>Rapport2</a>";
+echo"<a href='Rapport  2.pdf'>Rapport2</a>";
 ?>
 
 </body>

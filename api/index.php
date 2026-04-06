@@ -154,13 +154,6 @@
     <footer style="text-align: center; padding: 50px; color: #444; font-size: 12px;">
         © 2026 SARA PORTFOLIO - ISTA DIGITAL DEV
     </footer>
-<?php
-
-echo"<a href='exercice1.php'>Exercice1</a>";
-echo"<a href='exercice2.php'>Exercice2</a>";
-echo"<a href='rapport 11.pdf'>Rapport1</a>";
-echo"<a href='Rapport  2.pdf'>Rapport2</a>";
-?>
 
 </body>
 </html>

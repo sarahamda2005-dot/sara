@@ -86,19 +86,19 @@
             <div class="card">
                 <h3>Exercice 1</h3>
                 <p>Manipulation des variables en PHP</p>
-                <a href="#">Voir</a>
+                <a href="exercice1.php">Voir</a>
             </div>
 
             <div class="card">
                 <h3>Exercice 2</h3>
                 <p>Les conditions (if, else)</p>
-                <a href="#">Voir</a>
+                <a href="exercice2.php">Voir</a>
             </div>
 
             <div class="card">
                 <h3>Exercice 3</h3>
                 <p>Les boucles (for, while)</p>
-                <a href="#">Voir</a>
+                <a href="Rapport  2.pdf">Voir</a>
             </div>
 
         </div>

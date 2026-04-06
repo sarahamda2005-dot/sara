@@ -95,7 +95,7 @@
 <body>
 
     <nav>
-        <div class="logo">SARA HAMDA.</div>
+        <div class="logo">SARA  HAMDA.</div>
         <div class="nav-links">
             <a href="#">Home</a>
             <a href="#work">Projects</a>
@@ -112,7 +112,7 @@
         </div>
 
         <div class="hero-image">
-            <img src="photos1.jpeg" alt="Sara Portrait">
+            <img src="api/photos1.jpeg" alt="Sara Portrait">
         </div>
     </header>
 
@@ -127,7 +127,7 @@
                 <span>Consulter le code →</span>
             </a>
 
-            <a href="Rapport  2.pdf" class="card">
+            <a href="exercice2.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>Atelier 02:</h3>
                 <p>Mise en place des conditions et des boucles dynamiques.</p>
@@ -157,7 +157,7 @@
 <?php
 
 echo"<a href='exercice1.php'>Exercice1</a>";
-echo"<a href='Rapport  2.pdf'>Exercice2</a>";
+echo"<a href='exercice2.php'>Exercice2</a>";
 echo"<a href='rapport 11.pdf'>Rapport1</a>";
 echo"<a href='Rapport 2.pdf'>Rapport2</a>";
 ?>

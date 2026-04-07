@@ -164,7 +164,7 @@
 
 
 
-            
+
             <a href="PARTIE1td1.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 01:</h3>
@@ -177,13 +177,13 @@
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 1 td3.pdf" class="card">
+            <a href="PARTIE1td3.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 03:</h3>
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 1 td4.pdf" class="card">
+            <a href="PARTIE1td4.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 04:</h3>
                 <p>Tableaux numérotés .</p>

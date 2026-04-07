@@ -160,13 +160,18 @@
                 <p>Mise en place des conditions et des boucles dynamiques.</p>
                 <span>Consulter le code →</span>
             </a>
+
+
+
+
+            
             <a href="PARTIE1td1.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 01:</h3>
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="c:PARTIE 1 td2.pdf" class="card">
+            <a href="PARTIE1td2.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 02:</h3>
                 <p>Tableaux numérotés .</p>
@@ -202,6 +207,10 @@
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
+
+
+
+
             <a href="PARTIE 2 td8.pdf" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 08:</h3>
@@ -226,32 +235,39 @@
                 <p>Tableaux associatifs .</p>
                 <span>Consulter le code →</span>
             </a>
+
+
+
             <a href="PARTIE 3 td12.pdf" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 12:</h3>
-                <p>Tableaux associatifs .</p>
+                <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
             <a href="PARTIE 3 td13.pdf" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 13:</h3>
-                <p>Tableaux associatifs .</p>
+                <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
             <a href="PARTIE 3 td14.pdf" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 14:</h3>
-                <p>Tableaux associatifs .</p>
+                <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
             <a href="PARTIE 3 td15.pdf" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 15:</h3>
-                <p>Tableaux associatifs .</p>
+                <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
 
-            
+
+
+
+
+
             <a href="PARTIE1 td1.pdf" target="_blank" class="card">
                 <span class="tag">Documentation</span>
                 <h3>Rapport De TD 01</h3>

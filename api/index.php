@@ -112,7 +112,7 @@
         </div>
 
         <div class="hero-image">
-            <img src="sara.jpg" alt="Sara Portrait">
+            <img src="sara.jpeg" alt="Sara Portrait">
         </div>
     </header>
 
@@ -147,14 +147,14 @@
                 <p>Bilan des compétences et réalisations techniques.</p>
                 <span>Ouvrir le PDF ↓</span>
             </a>
-            <a href="exercice3.php" class="card">
+            <a href="exercice3TD1.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>Atelier 03:</h3>
                 <p>Mise en place des conditions et des boucles dynamiques.</p>
                 <span>Consulter le code →</span>
             </a>
 
-            <a href="exercice4.php" class="card">
+            <a href="exercice3TD2.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>Atelier 03:</h3>
                 <p>Mise en place des conditions et des boucles dynamiques.</p>
@@ -264,10 +264,10 @@
             </a>
 
 
+          
 
 
-
-            <a href="PARTIE1 td1.pdf" target="_blank" class="card">
+            <a href="c:\Users\Admin\Desktop\atelier\public\PARTIE1 td1.pdf" target="_blank" class="card">
                 <span class="tag">Documentation</span>
                 <h3>Rapport De TD 01</h3>
                 <p>Analyse technique et environnement de développement.</p>

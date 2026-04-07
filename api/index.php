@@ -267,7 +267,6 @@
 
 
 
-
             <a href="PARTIE1 td1.pdf" target="_blank" class="card">
                 <span class="tag">Documentation</span>
                 <h3>Rapport De TD 01</h3>

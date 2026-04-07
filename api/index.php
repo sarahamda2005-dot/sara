@@ -156,28 +156,10 @@
 
             <a href="exercice4.php" class="card">
                 <span class="tag">Exercice PHP</span>
-                <h3>Atelier 04:</h3>
+                <h3>Atelier 03:</h3>
                 <p>Mise en place des conditions et des boucles dynamiques.</p>
                 <span>Consulter le code →</span>
             </a>
-            
-            <a href="resultat3.php" class="card">
-                <span class="tag">Exercice PHP</span>
-                <h3>Resultat 03:</h3>
-                <p>Mise en place des conditions et des boucles dynamiques.</p>
-                <span>Consulter le code →</span>
-            </a>
-            <a href="resultat4.php" class="card">
-                <span class="tag">Exercice PHP</span>
-                <h3>Resultat 04:</h3>
-                <p>Mise en place des conditions et des boucles dynamiques.</p>
-                <span>Consulter le code →</span>
-            </a>
-
-
-
-
-
         </div>
     </section>
 

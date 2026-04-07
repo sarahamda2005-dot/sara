@@ -7,7 +7,7 @@
 </head>
 <body>
 <!-- formulaire.html --> 
-<form method="POST" action="resultat3.php"> 
+<form method="POST" action="resultat1.php"> 
 Nom : <input type="text" name="nom"><br> 
 Prénom : <input type="text" name="prenom"><br> 
 <input type="submit" value="Valider"> 

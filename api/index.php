@@ -147,6 +147,36 @@
                 <p>Bilan des compétences et réalisations techniques.</p>
                 <span>Ouvrir le PDF ↓</span>
             </a>
+            <a href="exercice3.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>Atelier 03:</h3>
+                <p>Mise en place des conditions et des boucles dynamiques.</p>
+                <span>Consulter le code →</span>
+            </a>
+
+            <a href="exercice4.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>Atelier 04:</h3>
+                <p>Mise en place des conditions et des boucles dynamiques.</p>
+                <span>Consulter le code →</span>
+            </a>
+            
+            <a href="resultat3.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>Resultat 03:</h3>
+                <p>Mise en place des conditions et des boucles dynamiques.</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="resultat4.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>Resultat 04:</h3>
+                <p>Mise en place des conditions et des boucles dynamiques.</p>
+                <span>Consulter le code →</span>
+            </a>
+
+
+
+
 
         </div>
     </section>

@@ -189,19 +189,19 @@
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 1 td5.pdf" class="card">
+            <a href="PARTIE1td5.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 05:</h3>
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 1 td6.pdf" class="card">
+            <a href="PARTIE1td6.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 06:</h3>
                 <p>Tableaux numérotés .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 1 td7.pdf" class="card">
+            <a href="PARTIE1td7.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 07:</h3>
                 <p>Tableaux numérotés .</p>
@@ -211,25 +211,25 @@
 
 
 
-            <a href="PARTIE 2 td8.pdf" class="card">
+            <a href="PARTIE2td8.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 08:</h3>
                 <p>Tableaux associatifs .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 2 td9.pdf" class="card">
+            <a href="PARTIE2td9.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 09:</h3>
                 <p>Tableaux associatifs .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 2 td10.pdf" class="card">
+            <a href="PARTIE2td10.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 10:</h3>
                 <p>Tableaux associatifs .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 2 td11.pdf" class="card">
+            <a href="PARTIE2td11.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 11:</h3>
                 <p>Tableaux associatifs .</p>
@@ -238,25 +238,25 @@
 
 
 
-            <a href="PARTIE 3 td12.pdf" class="card">
+            <a href="PARTIE3td12.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 12:</h3>
                 <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 3 td13.pdf" class="card">
+            <a href="PARTIE3td13.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 13:</h3>
                 <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 3 td14.pdf" class="card">
+            <a href="PARTIE3td14.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 14:</h3>
                 <p>Nombres pairs  .</p>
                 <span>Consulter le code →</span>
             </a>
-            <a href="PARTIE 3 td15.pdf" class="card">
+            <a href="PARTIE3td15.php" class="card">
                 <span class="tag">Exercice PHP</span>
                 <h3>TD 15:</h3>
                 <p>Nombres pairs  .</p>

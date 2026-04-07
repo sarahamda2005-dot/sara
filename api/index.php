@@ -267,7 +267,7 @@
           
 
 
-            <a href="c:\Users\Admin\Desktop\atelier\public\PARTIE1 td1.pdf" target="_blank" class="card">
+            <a href="PARTIE1 td1.pdf" target="_blank" class="card">
                 <span class="tag">Documentation</span>
                 <h3>Rapport De TD 01</h3>
                 <p>Analyse technique et environnement de développement.</p>

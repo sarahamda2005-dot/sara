@@ -4,5 +4,5 @@ $somme = 0;
 foreach ($tab as $valeur) { 
 $somme += $valeur; 
 } 
-echo "Somme = " . $somme; 
+echo "Somme = " . $somme;
 ?>

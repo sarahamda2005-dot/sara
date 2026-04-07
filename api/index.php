@@ -160,6 +160,98 @@
                 <p>Mise en place des conditions et des boucles dynamiques.</p>
                 <span>Consulter le code →</span>
             </a>
+            <a href="PARTIE1td1.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 01:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE1td2.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 02:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE1td3.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 03:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE1td4.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 04:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE1td5.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 05:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE1td6.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 06:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE1td7.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 07:</h3>
+                <p>Tableaux numérotés .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE2td8.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 08:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE2td9.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 09:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE2td10.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 10:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE2td11.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 11:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE3td12.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 12:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE3td13.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 13:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE3td14.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 14:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            <a href="PARTIE3td15.php" class="card">
+                <span class="tag">Exercice PHP</span>
+                <h3>TD 15:</h3>
+                <p>Tableaux associatifs .</p>
+                <span>Consulter le code →</span>
+            </a>
+            
+            
         </div>
     </section>
 

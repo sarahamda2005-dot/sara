@@ -45,7 +45,7 @@
         }
         .hero-text { flex: 1.5; }
         .hero-text .subtitle { 
-            font-size: 10px; /* Sghira o hdeqa kif tlebty */
+            font-size: 10px; 
             letter-spacing: 2px; 
             color: var(--text-muted); 
             text-transform: uppercase;

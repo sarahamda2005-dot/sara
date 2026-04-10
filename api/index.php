@@ -16,6 +16,7 @@
         }
 
         * { margin: 0; padding: 0; box-sizing: border-box; }
+
         body { 
             font-family: 'Inter', sans-serif; 
             background-color: var(--bg-color); 
@@ -25,11 +26,8 @@
         nav {
             display: flex;
             justify-content: space-between;
-            align-items: center;
             padding: 40px 10%;
         }
-
-        .logo { font-weight: 800; }
 
         .nav-links a {
             color: var(--text-muted);
@@ -46,7 +44,6 @@
         .hero {
             display: flex;
             padding: 40px 10%;
-            align-items: center;
             justify-content: space-between;
         }
 
@@ -73,14 +70,16 @@
 
         .card h3 { margin: 10px 0; }
 
-        .card p { color: var(--text-muted); font-size: 14px; }
+        .card p {
+            color: var(--text-muted);
+            font-size: 14px;
+        }
 
         .tag {
             font-size: 10px;
             color: var(--accent-blue);
         }
 
-        /* NEW BUTTONS */
         .buttons {
             display: flex;
             gap: 10px;
@@ -101,50 +100,110 @@
             border: 1px solid var(--accent-blue);
             color: var(--accent-blue);
         }
-
     </style>
 </head>
 
 <body>
+
+<nav>
+    <div>SARA HAMDA</div>
+    <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#work">Projects</a>
+        <a href="#" class="btn-contact">Contact</a>
+    </div>
+</nav>
 
 <section class="work-section">
     <h2>Mes Travaux</h2>
 
     <div class="grid">
 
-        <!-- Exemple 1 -->
+        <!-- Atelier 1 -->
         <div class="card">
             <span class="tag">PHP</span>
             <h3>Atelier 01</h3>
-            <p>Variables et base PHP</p>
-
+            <p>Variables et structures de base.</p>
             <div class="buttons">
                 <a href="exercice1.php" class="btn">Atelier</a>
-                <a href="rapport1.pdf" class="btn btn-outline" target="_blank">Rapport</a>
+                <a href="rapport 11.pdf" target="_blank" class="btn btn-outline">Rapport</a>
             </div>
         </div>
 
-        <!-- Exemple 2 -->
+        <!-- Atelier 2 -->
         <div class="card">
             <span class="tag">PHP</span>
             <h3>Atelier 02</h3>
-            <p>Conditions et boucles</p>
-
+            <p>Conditions et boucles.</p>
             <div class="buttons">
                 <a href="exercice2.php" class="btn">Atelier</a>
-                <a href="rapport2.pdf" class="btn btn-outline" target="_blank">Rapport</a>
+                <a href="Rapport 2.pdf" target="_blank" class="btn btn-outline">Rapport</a>
             </div>
         </div>
 
-        <!-- Exemple 3 -->
+        <!-- Atelier 3 -->
         <div class="card">
             <span class="tag">PHP</span>
-            <h3>TD 01</h3>
-            <p>Tableaux</p>
+            <h3>Atelier 03</h3>
+            <p>Exercices avancés.</p>
+            <div class="buttons">
+                <a href="exercice3TD1.php" class="btn">Atelier</a>
+                <a href="TD3.pdf" target="_blank" class="btn btn-outline">Rapport</a>
+            </div>
+        </div>
 
+        <!-- TD 01 -->
+        <div class="card">
+            <span class="tag">TD</span>
+            <h3>TD 01</h3>
+            <p>Tableaux numérotés.</p>
             <div class="buttons">
                 <a href="PARTIE1td1.php" class="btn">Atelier</a>
-                <a href="TD1.pdf" class="btn btn-outline" target="_blank">Rapport</a>
+                <a href="TD 1.pdf" target="_blank" class="btn btn-outline">Rapport</a>
+            </div>
+        </div>
+
+        <!-- TD 02 -->
+        <div class="card">
+            <span class="tag">TD</span>
+            <h3>TD 02</h3>
+            <p>Tableaux numérotés.</p>
+            <div class="buttons">
+                <a href="PARTIE1td2.php" class="btn">Atelier</a>
+                <a href="TD 2.pdf" target="_blank" class="btn btn-outline">Rapport</a>
+            </div>
+        </div>
+
+        <!-- TD 03 -->
+        <div class="card">
+            <span class="tag">TD</span>
+            <h3>TD 03</h3>
+            <p>Tableaux numérotés.</p>
+            <div class="buttons">
+                <a href="PARTIE1td3.php" class="btn">Atelier</a>
+                <a href="TD3.pdf" target="_blank" class="btn btn-outline">Rapport</a>
+            </div>
+        </div>
+
+        <!-- TD 08 -->
+        <div class="card">
+            <span class="tag">TD</span>
+            <h3>TD 08</h3>
+            <p>Tableaux associatifs.</p>
+            <div class="buttons">
+                <a href="PARTIE2td8.php" class="btn">Atelier</a>
+                <a href="TD 8.pdf" target="_blank" class="btn btn-outline">Rapport</a>
+            </div>
+        </div>
+
+        <!-- TD 12 -->
+        <div class="card">
+            <span class="tag">TD</span>
+            <h3>TD 12</h3>
+            <p>Nombres pairs.</p>
+            <div class="buttons">
+                <a href="PARTIE3td12.php" class="btn">Atelier</a>
+                <a href="TD 13.pdf" target="_blank" class="btn btn-outline">Rapport</a>
             </div>
         </div>
 

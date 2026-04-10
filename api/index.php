@@ -105,15 +105,16 @@
             <div class="card-header">
                 <span class="tag-mini">EXERCICE PHP</span>
                 <h3>Atelier 01</h3>
-                <p>Manipulation des variables et structures de base en PHP.</p>
+                <p>Manipulation des variables et structures de base en PHP (TD 01 à 07).</p>
                 <a href="#" class="view-more">Voir les TD ↓</a>
             </div>
-
             <div class="sub-grid">
                 <a href="PARTIE1td1.php" class="sub-item">TD 01</a>
                 <a href="PARTIE1td2.php" class="sub-item">TD 02</a>
                 <a href="PARTIE1td3.php" class="sub-item">TD 03</a>
                 <a href="PARTIE1td4.php" class="sub-item">TD 04</a>
+                <a href="PARTIE1td5.php" class="sub-item">TD 05</a>
+                <a href="PARTIE1td6.php" class="sub-item">TD 06</a>
             </div>
         </div>
 
@@ -121,18 +122,38 @@
             <div class="card-header">
                 <span class="tag-mini">EXERCICE PHP</span>
                 <h3>Atelier 02</h3>
-                <p>Conditions et boucles dynamiques.</p>
+                <p>Conditions, boucles dynamiques et tableaux associatifs.</p>
                 <a href="#" class="view-more">Voir les exercices ↓</a>
             </div>
-
             <div class="sub-grid">
                 <a href="exercice1.php" class="sub-item">Exercice 1</a>
                 <a href="exercice2.php" class="sub-item">Exercice 2</a>
                 <a href="exercice3TD1.php" class="sub-item">Exercice 3</a>
+                <a href="PARTIE2td8.php" class="sub-item">TD 08 (Assoc)</a>
+                <a href="PARTIE3td12.php" class="sub-item">TD 12 (Pairs)</a>
             </div>
         </div>
-
     </div>
+
+    <h2 class="section-title" style="margin-top: 60px;">Mes Rapports PDF</h2>
+    <div class="reports-grid">
+        <a href="rapport 11.pdf" target="_blank" class="btn-report">
+            <span class="report-icon">PDF</span> Rapport Stage 01
+        </a>
+        <a href="Rapport 2.pdf" target="_blank" class="btn-report">
+            <span class="report-icon">PDF</span> Rapport Stage 02
+        </a>
+        <a href="TD 1.pdf" target="_blank" class="btn-report">
+            <span class="report-icon">PDF</span> Rapport TD 01
+        </a>
+        <a href="TD 2.pdf" target="_blank" class="btn-report">
+            <span class="report-icon">PDF</span> Rapport TD 02
+        </a>
+        <a href="TD 8.pdf" target="_blank" class="btn-report">
+            <span class="report-icon">PDF</span> Rapport TD 08
+        </a>
+        </div>
+
 </section>
 </body>
 </html>

@@ -737,9 +737,17 @@
       </div>
       <div class="project-info">
         <h3>atelier 2</h3>
+        <p>Exercice 1</p>
         <div class="project-actions">
-          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-live" href="rapport 11.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="exercice1.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+      <div class="project-info">
+        <p>Exercice 2</p>
+        <div class="project-actions">
+          <a class="btn-live" href="Rapport  2.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="exercice2.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div>
     </div>

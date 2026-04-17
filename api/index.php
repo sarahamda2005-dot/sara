@@ -615,8 +615,8 @@
         
         <p>TD 6</p>
        <div class="project-actions">
-          <a class="btn-live" href="TD 1.pdf" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="PARTIE1td1.php" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-live" href="Rapport TD6.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE1td6.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div> <br>
 
@@ -624,10 +624,83 @@
         
         <p>TD 7</p>
        <div class="project-actions">
-          <a class="btn-live" href="TD 1.pdf" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="PARTIE1td1.php" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-live" href="TD 7.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE1td7.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div><br>
+
+      <div class="project-info">
+        
+        <p>TD 8</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 8.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE2td8.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+      <div class="project-info">
+        
+        <p>TD 9</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 9.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE2td9.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+      <div class="project-info">
+        
+        <p>TD 10</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 10.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE2td10.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+      <div class="project-info">
+        
+        <p>TD 11</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 11.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE2td11.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+      <div class="project-info">
+        
+        <p>TD 12</p>
+       <div class="project-actions">
+          <a class="btn-live" href="Rapport TD12.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE3td12.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+      <div class="project-info">
+        
+        <p>TD 13</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 13.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE3td13.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+      <div class="project-info">
+        
+        <p>TD 14</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 14.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE3td14.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+      <div class="project-info">
+        
+        <p>TD 15</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 15.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE3td15.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+
+
 
 
     </div>

@@ -522,7 +522,7 @@
         <img src="ta-photo.jpg" alt="Sara Hamda"/>
         Si pas encore de photo, on garde le placeholder :
       -->
-      <div class="photo-placeholder">SH</div>
+      <img src="/sara.jpeg" alt="Sara Hamda"/>
     </div>
 
     <div class="hero-text">

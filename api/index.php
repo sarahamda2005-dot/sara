@@ -571,13 +571,16 @@
       </div>
       <div class="project-info">
         <h3>atelier 1</h3>
+        <p>TD 1</p>
         <div class="project-actions">
           <a class="btn-live" href="TD 1.pdf" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="PARTIE1td1.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
-         <div class="project-actions">
-          <a class="btn-live" href="TD 2.pdf" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="PARTIE1td2.php" onclick="alert('Lien GitHub ici')">Code</a>
+        <h3>atelier 1</h3>
+        <p>TD 2</p>
+       <div class="project-actions">
+          <a class="btn-live" href="TD 1.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE1td1.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div>
     </div>

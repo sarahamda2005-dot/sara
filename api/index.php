@@ -570,10 +570,10 @@
         </div>
       </div>
       <div class="project-info">
-        <h3>Projet 1</h3>
+        <h3>atelier 1</h3>
         <div class="project-actions">
-          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-live" href="TD 1.pdf" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="PARTIE1td1.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div>
     </div>
@@ -608,7 +608,7 @@
         </div>
       </div>
       <div class="project-info">
-        <h3>Projet 2</h3>
+        <h3>atelier 2</h3>
         <div class="project-actions">
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
@@ -641,7 +641,7 @@
         </div>
       </div>
       <div class="project-info">
-        <h3>Projet 3</h3>
+        <h3>atelier 3</h3>
         <div class="project-actions">
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
@@ -673,9 +673,9 @@
   <h2 class="fade-in">Contact</h2>
   <p class="fade-in">Tu veux collaborer ou juste dire bonjour ?</p>
   <div class="contact-links fade-in">
-    <a class="contact-link" href="mailto:sara.hamda@email.com">
+    <a class="contact-link" href="mailto:sarahamda2005@gmail.com">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="none"><rect x="1" y="3" width="14" height="10" rx="1.5" stroke="currentColor" stroke-width="1.3"/><path d="M1 5l7 5 7-5" stroke="currentColor" stroke-width="1.3"/></svg>
-      sara.hamda@email.com
+      sarahamda2005@gmail.com
     </a>
     <a class="contact-link" href="https://github.com" target="_blank">
       <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 1C4.13 1 1 4.13 1 8c0 3.09 2.01 5.71 4.79 6.63.35.06.48-.15.48-.33v-1.16c-1.95.42-2.36-.94-2.36-.94-.32-.81-.78-1.03-.78-1.03-.64-.44.05-.43.05-.43.7.05 1.07.72 1.07.72.62 1.07 1.63.76 2.03.58.06-.45.24-.76.44-.93-1.56-.18-3.2-.78-3.2-3.47 0-.77.27-1.39.72-1.88-.07-.18-.31-.89.07-1.86 0 0 .59-.19 1.93.72A6.7 6.7 0 018 5.3c.6 0 1.2.08 1.77.23 1.34-.91 1.93-.72 1.93-.72.38.97.14 1.68.07 1.86.45.49.72 1.11.72 1.88 0 2.7-1.64 3.29-3.2 3.47.25.22.47.65.47 1.31v1.94c0 .19.13.4.48.33A6.995 6.995 0 0015 8c0-3.87-3.13-7-7-7z"/></svg>

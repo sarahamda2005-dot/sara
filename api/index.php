@@ -835,6 +835,8 @@
         <div class="project-actions">
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="atelier 4.php" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier4.git" onclick="alert('Lien GitHub ici')">Code</a>
+
         </div> <br>
 
         <!-- Projet 5 -->

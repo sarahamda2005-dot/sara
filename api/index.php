@@ -782,10 +782,95 @@
           <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
+      </div><br>
+
+       <div class="project-info">
+        <h3>Exercice 1</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+
+       <div class="project-info">
+        <h3>Exercice 2</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
       </div>
     </div>
 
   </div>
+
+
+  <!-- Projet 4 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <!--
+          REMPLACE par une vraie capture d'écran :
+          <img src="projet1.png" alt="Projet 1"/>
+        -->
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <rect x="20" y="20" width="180" height="120" rx="8" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="20" y="20" width="180" height="22" rx="8" fill="#4f6ef7" opacity="0.4"/>
+            <circle cx="33" cy="31" r="4" fill="#4f6ef7" opacity="0.7"/>
+            <circle cx="46" cy="31" r="4" fill="#4f6ef7" opacity="0.4"/>
+            <rect x="30" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="90" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="150" y="55" width="40" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="30" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="90" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="150" y="118" width="40" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <!-- phone -->
+            <rect x="195" y="60" width="45" height="76" rx="6" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="199" y="68" width="37" height="60" rx="3" fill="#2a3a6a"/>
+            <rect x="207" y="138" width="20" height="4" rx="2" fill="#4f6ef7" opacity="0.4"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3>atelier 4</h3>
+        <p>TD 1</p>
+        <div class="project-actions">
+          <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="" onclick="alert('Lien GitHub ici')">Code</a>
+        </div> <br>
+
+        <!-- Projet 1 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <!--
+          REMPLACE par une vraie capture d'écran :
+          <img src="projet1.png" alt="Projet 1"/>
+        -->
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <rect x="20" y="20" width="180" height="120" rx="8" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="20" y="20" width="180" height="22" rx="8" fill="#4f6ef7" opacity="0.4"/>
+            <circle cx="33" cy="31" r="4" fill="#4f6ef7" opacity="0.7"/>
+            <circle cx="46" cy="31" r="4" fill="#4f6ef7" opacity="0.4"/>
+            <rect x="30" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="90" y="55" width="50" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="150" y="55" width="40" height="60" rx="4" fill="#2a3a6a"/>
+            <rect x="30" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="90" y="118" width="50" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <rect x="150" y="118" width="40" height="8" rx="3" fill="#4f6ef7" opacity="0.6"/>
+            <!-- phone -->
+            <rect x="195" y="60" width="45" height="76" rx="6" fill="#1e2a4a" stroke="#4f6ef7" stroke-width="1"/>
+            <rect x="199" y="68" width="37" height="60" rx="3" fill="#2a3a6a"/>
+            <rect x="207" y="138" width="20" height="4" rx="2" fill="#4f6ef7" opacity="0.4"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3>atelier 5</h3>
+        <p>TD 1</p>
+        <div class="project-actions">
+          <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="" onclick="alert('Lien GitHub ici')">Code</a>
+        </div> <br>
 </section>
 
 <!-- ABOUT -->

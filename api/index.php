@@ -835,9 +835,16 @@
         <div class="project-actions">
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href="atelier 4.php" onclick="alert('Lien GitHub ici')">Code</a>
-          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier4.git" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier4.git" onclick="alert('Lien GitHub ici')">GitHub</a>
 
         </div> <br>
+         <div class="project-info">
+        <h3>Exercice 2</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">

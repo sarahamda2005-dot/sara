@@ -781,7 +781,7 @@
         <div class="project-actions">
          
         </div>
-      </div><br>
+      </div>
 
        <div class="project-info">
         <h3>Exercice 1</h3>
@@ -837,7 +837,7 @@
           <a class="btn-code" href="atelier 4.php" onclick="alert('Lien GitHub ici')">Code</a>
         </div> <br>
 
-        <!-- Projet 1 -->
+        <!-- Projet 5 -->
     <div class="project-card fade-in">
       <div class="project-thumb">
         <!--
@@ -865,11 +865,12 @@
       </div>
       <div class="project-info">
         <h3>atelier 5</h3>
-        <p>TD 1</p>
+        <p></p>
         <div class="project-actions">
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
-          <a class="btn-code" href="" onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-code" href=" " onclick="alert('Lien GitHub ici')">Code</a>
         </div> <br>
+</div>
 </section>
 
 <!-- ABOUT -->

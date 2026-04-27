@@ -949,7 +949,7 @@
 </div>
 </div>
 </div>
-
+  <div class="projects-grid">
   <!-- Projet 7 -->
     <div class="project-card fade-in">
       <div class="project-thumb">

@@ -802,9 +802,8 @@
 
   </div>
 
-
+  <div class="projects-grid">
   <!-- Projet 4 -->
-   <div class="projects-grid">
     <div class="project-card fade-in">
       <div class="project-thumb">
         <!--
@@ -840,8 +839,8 @@
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier4.git" onclick="alert('Lien GitHub ici')">GitHub</a>
 
         </div> 
-
 </div>
+
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -883,8 +882,8 @@
           <a class="btn-code" href=" " onclick="alert('Lien GitHub ici')">Code</a>
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/ateliers5.git" onclick="alert('Lien GitHub ici')">GitHub</a>
         </div>
-
 </div>
+
 
 <!-- Projet 6 -->
     <div class="project-card fade-in">
@@ -947,10 +946,9 @@
           </div>
 </div><br>
       
-
-    </div>
-
-  </div>
+</div>
+</div>
+</div>
 
   <!-- Projet 7 -->
     <div class="project-card fade-in">

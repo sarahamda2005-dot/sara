@@ -829,6 +829,7 @@
           </svg>
         </div>
       </div>
+</div>
       <div class="project-info">
         <h3>atelier 4</h3>
         <p></p>

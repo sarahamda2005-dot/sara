@@ -846,7 +846,7 @@
           <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div>
-</div>
+</div><br>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -880,9 +880,149 @@
         <div class="project-actions">
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href=" " onclick="alert('Lien GitHub ici')">Code</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/ateliers5.git" onclick="alert('Lien GitHub ici')">GitHub</a>
         </div> <br>
 </div>
-</div>
+</div><br>
+
+<!-- Projet 6 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <!-- ecommerce site -->
+            <rect x="10" y="15" width="240" height="155" rx="6" fill="#f9f5f2"/>
+            <!-- navbar -->
+            <rect x="10" y="15" width="240" height="28" rx="6" fill="#ffffff" stroke="#e0d5cc" stroke-width="0.5"/>
+            <rect x="20" y="22" width="50" height="6" rx="3" fill="#c8a882"/>
+            <rect x="170" y="21" width="22" height="8" rx="2" fill="#e8b89a"/>
+            <rect x="196" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <rect x="222" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <!-- hero image area -->
+            <rect x="10" y="43" width="120" height="90" fill="#edd5c0"/>
+            <rect x="130" y="43" width="120" height="90" fill="#d4c4b8"/>
+            <!-- product cards row -->
+            <rect x="14" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="76" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="138" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="200" y="138" width="46" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3>atelier 6</h3><br>
+        <p>Exercice 1</p>
+       <div class="project-actions">
+          <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="exercice9.php" onclick="alert('Lien GitHub ici')">Code</a>
+        </div>
+      </div><br>
+        <div class="project-info">
+          <p>Exercice 2</p>
+        <div class="project-actions">
+            <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+            <a class="btn-code" href="exercice10.php" onclick="alert('Lien GitHub ici')">Code</a>
+          </div>
+</div><br>
+        <div class="project-info">
+          <p>Exercice 3</p>
+        <div class="project-actions">
+            <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+            <a class="btn-code" href="exercice11.php" onclick="alert('Lien GitHub ici')">Code</a>
+          </div>
+</div><br>
+        <div class="project-info">
+          <p>Exercice 4</p>
+        <div class="project-actions">
+            <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+            <a class="btn-code" href="exercice12.php" onclick="alert('Lien GitHub ici')">Code</a>
+          </div>
+</div><br>
+        <div class="project-info">
+          <p>Exercice 5</p>
+        <div class="project-actions">
+            <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
+            <a class="btn-code" href="exercice13.php" onclick="alert('Lien GitHub ici')">Code</a>
+          </div>
+</div><br>
+      
+
+    </div>
+
+  </div>
+
+  <!-- Projet 7 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <!-- ecommerce site -->
+            <rect x="10" y="15" width="240" height="155" rx="6" fill="#f9f5f2"/>
+            <!-- navbar -->
+            <rect x="10" y="15" width="240" height="28" rx="6" fill="#ffffff" stroke="#e0d5cc" stroke-width="0.5"/>
+            <rect x="20" y="22" width="50" height="6" rx="3" fill="#c8a882"/>
+            <rect x="170" y="21" width="22" height="8" rx="2" fill="#e8b89a"/>
+            <rect x="196" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <rect x="222" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <!-- hero image area -->
+            <rect x="10" y="43" width="120" height="90" fill="#edd5c0"/>
+            <rect x="130" y="43" width="120" height="90" fill="#d4c4b8"/>
+            <!-- product cards row -->
+            <rect x="14" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="76" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="138" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="200" y="138" width="46" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3>atelier 7</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier7.git" onclick="alert('Lien GitHub ici')">GitHub</a>
+         
+        </div>
+      </div><br>
+    </div>
+
+  </div>
+
+  <!-- Projet 8 -->
+    <div class="project-card fade-in">
+      <div class="project-thumb">
+        <div class="thumb-illustration">
+          <svg width="260" height="180" viewBox="0 0 260 180" fill="none">
+            <!-- ecommerce site -->
+            <rect x="10" y="15" width="240" height="155" rx="6" fill="#f9f5f2"/>
+            <!-- navbar -->
+            <rect x="10" y="15" width="240" height="28" rx="6" fill="#ffffff" stroke="#e0d5cc" stroke-width="0.5"/>
+            <rect x="20" y="22" width="50" height="6" rx="3" fill="#c8a882"/>
+            <rect x="170" y="21" width="22" height="8" rx="2" fill="#e8b89a"/>
+            <rect x="196" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <rect x="222" y="21" width="22" height="8" rx="2" fill="#e8b89a" opacity="0.5"/>
+            <!-- hero image area -->
+            <rect x="10" y="43" width="120" height="90" fill="#edd5c0"/>
+            <rect x="130" y="43" width="120" height="90" fill="#d4c4b8"/>
+            <!-- product cards row -->
+            <rect x="14" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="76" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="138" y="138" width="56" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+            <rect x="200" y="138" width="46" height="28" rx="3" fill="#f0e8e0" stroke="#ddd" stroke-width="0.5"/>
+          </svg>
+        </div>
+      </div>
+      <div class="project-info">
+        <h3>atelier 8</h3>
+        <div class="project-actions">
+          <a class="btn-live" href="#" onclick="alert('Lien live demo ici')">View Live</a>
+          <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier8.git" onclick="alert('Lien GitHub ici')">GitHub</a>
+         
+        </div>
+      </div><br> 
+    </div>
+
+  </div>
+
 </section>
 
 <!-- ABOUT -->

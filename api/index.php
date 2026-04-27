@@ -846,6 +846,7 @@
           <a class="btn-code" href="#" onclick="alert('Lien GitHub ici')">Code</a>
         </div>
       </div>
+</div>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -880,6 +881,7 @@
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href=" " onclick="alert('Lien GitHub ici')">Code</a>
         </div> <br>
+</div>
 </div>
 </section>
 

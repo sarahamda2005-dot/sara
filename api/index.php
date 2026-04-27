@@ -983,10 +983,8 @@
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier7.git" onclick="alert('Lien GitHub ici')">GitHub</a>
          
         </div>
-      </div><br>
+      </div>
     </div>
-
-  </div>
 
   <!-- Projet 8 -->
     <div class="project-card fade-in">
@@ -1023,10 +1021,10 @@
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier8.git" onclick="alert('Lien GitHub ici')">GitHub</a>
          
         </div>
-      </div><br> 
+      </div>
     </div>
 
-  </div>
+</div>
 
 </section>
 

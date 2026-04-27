@@ -800,7 +800,7 @@
       </div>
     </div>
 
-  </div><br>
+  </div>
 
 
   <!-- Projet 4 -->
@@ -840,7 +840,7 @@
 
         </div> 
 
-</div><br>
+</div>
 
         <!-- Projet 5 -->
     <div class="project-card fade-in">
@@ -881,9 +881,9 @@
           <a class="btn-live" href="" onclick="alert('Lien live demo ici')">View Live</a>
           <a class="btn-code" href=" " onclick="alert('Lien GitHub ici')">Code</a>
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/ateliers5.git" onclick="alert('Lien GitHub ici')">GitHub</a>
-        </div> <br>
+        </div>
 
-</div><br>
+</div>
 
 <!-- Projet 6 -->
     <div class="project-card fade-in">

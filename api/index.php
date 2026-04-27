@@ -828,8 +828,8 @@
             <rect x="207" y="138" width="20" height="4" rx="2" fill="#4f6ef7" opacity="0.4"/>
           </svg>
         </div>
-      </div>
 </div>
+
       <div class="project-info">
         <h3>atelier 4</h3>
         <p></p>
@@ -839,7 +839,7 @@
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/atelier4.git" onclick="alert('Lien GitHub ici')">GitHub</a>
 
         </div> 
-</div>
+
 </div><br>
 
         <!-- Projet 5 -->
@@ -882,7 +882,7 @@
           <a class="btn-code" href=" " onclick="alert('Lien GitHub ici')">Code</a>
           <a class="btn-code" href="https://github.com/sarahamda2005-dot/ateliers5.git" onclick="alert('Lien GitHub ici')">GitHub</a>
         </div> <br>
-</div>
+
 </div><br>
 
 <!-- Projet 6 -->

@@ -804,6 +804,7 @@
 
 
   <!-- Projet 4 -->
+   <div class="projects-grid">
     <div class="project-card fade-in">
       <div class="project-thumb">
         <!--
